@@ -1,0 +1,72 @@
+/* Write your styles */
+
+body {
+    padding-bottom: 40px;
+}
+
+.am-header-icon {
+    color: #434242;
+}
+
+.am-header-success {
+    background-color: #4aa94a;
+}
+
+.am-header-success .am-header-title, .am-header-success .am-header-title a {
+    color: #FFFFFF;
+}
+
+#vld-msg .am-alert {
+    margin-top: 50px;
+}
+
+.am-icon-color-danger {
+    color: #dc514c;
+}
+
+.am-panel-group .am-panel + .am-panel {
+    margin-top: -1px;
+}
+
+.am-panel {
+    border: none;
+    margin: 0px;
+}
+
+.am-panel-hd {
+    border: none;
+    padding: 0.5rem 1.5rem;
+}
+
+.am-panel-bd {
+    padding: 0.5rem 1.5rem;
+}
+
+.am-titlebar-default {
+    margin: 0px;
+}
+
+.am-thumbnails > li {
+    padding: 0 .5rem 0;
+}
+
+.am-thumbnail {
+    margin-bottom: 0px;
+}
+
+.am-panel-bd p {
+    text-indent: 2em;
+    margin: 0;
+}
+
+.line-clamp {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+}
+
+h4.am-form-label {
+    margin: 0;
+}
